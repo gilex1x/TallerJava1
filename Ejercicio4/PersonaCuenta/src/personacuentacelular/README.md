@@ -1,5 +1,5 @@
 # EVIDENCIA
-## Aca podra encontrar la evidencia de la ejecucuón del ejericio
+## Aca podra encontrar la evidencia de la ejecucIón del ejericio
 Este es el mensaje a la hora de crear los número telefonicos 
  de los usuarios, el primero es el mensaje cuando el numero
  tiene 9 digitos, si no, salta error con un ejemplo decomo debe ser
