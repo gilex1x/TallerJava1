@@ -1,26 +1,22 @@
 # EVIDENCIA
 ## Aca podra encontrar la evidencia de la ejecucIón del ejericio
-Este es el mensaje a la hora de crear los número telefonicos 
- de los usuarios, el primero es el mensaje cuando el numero
- tiene 9 digitos, si no, salta error con un ejemplo decomo debe ser
- el numero
+Al inicio no pide el nombre delñ vendedor
  
-![](https://i.imgur.com/iWp3eZI.png)
+![](https://i.imgur.com/6R3DoUg.png)
 
-El siguiente es el resumen de una transaccion cuando se realiza con exito
+Despues se nos va a desplegar un menu
 
-![](https://i.imgur.com/QY0Ftnv.png)
+![](https://i.imgur.com/WfDrpYt.png)
 
-Mensaje de un deposito
+Vista al agregar un producto
 
-![](https://i.imgur.com/EUwbOwK.png)
+![](https://i.imgur.com/hurtjOZ.png)
 
-Pero si el saldo al la hora de un retirop es menor a la cantidad a retirar sale lo siguiente
+Y vista del resumen
 
-![](https://i.imgur.com/ky9Q9pg.png)
+![](https://i.imgur.com/5Q0rGkL.png)
 
-El resumen de una cuenta se ve asi
+Se guardan los articulos en un Arralist, el cual no se usa para nada, pero se hizo
+para probar los conocimientos.
 
-![](https://i.imgur.com/AFcytsw.png)
-
-### PARA REALIZAR MÁS VERIFICACIONES, DESCARGUE EL PROYECTO Y MODIFIQUE EL ARCHIVO PersonaCuenta.java
+### PARA REALIZAR MÁS VERIFICACIONES, DESCARGUE EL PROYECTO
